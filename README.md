@@ -1,5 +1,5 @@
 # エクセル内に写真を一括で挿入するツール
-![画面例](docs/screenshot2.png)
+![画面例](docs/screenshot1.png)
 
 ## 概要
 - エクセル内の商品リストを写真が入るよう整形し、写真を順番に挿入するツールです。
@@ -17,7 +17,7 @@
 - 圧縮ボタンから写真を一括で圧縮
   ![画面例](docs/screenshot4.png)
 - 挿入ボタンから画像をエクセルファイルに挿入
-  ![画面例](docs/screenshot1.png)
+  ![画面例](docs/screenshot2.png)
 
 ## 技術ポイント
 - 写真ファイルをPNGからJPGに統一
